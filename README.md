@@ -1,1 +1,2 @@
+![osTicket logo]
 # osTicket-prereqs
